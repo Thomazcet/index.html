@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Cubo magico</title>
+<script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=fPKdfcsmx3c8LMck9Oj-1yw9T-vvnKsV5XIvCp2AxoNsaqZ1Oq9WC56b7itZgQv3Fgy5HEzvXMeVsiC_E2qU0s0RgcNQTMHm68x0gAqPta43bgNVjRgcCdAKdyFxRF50sKpryYHZB0viSz7uH0ZuwwxRWdNFPSUZbex_LCe1EARXpfSk1gJR9LrdmMqJ3zOT9dKozY2fd0tIXEKlw7YU2rN5d5avR_9QcU6SGjcUOcEar-hnFgOu5TYFYBGOwjJ1MIwtJpEJY378WT7R3QuoM7CsJB2o5Vc_fgTTTTSymqViInWww-ZIUz4jeo3QHfreODFFbBjcmwPaWvg3NfH0uMBbCA-uNNrjydTMTyd15nDMXOGH38KtWEBCTa3UOzDgpsMwd7aQgEdxfTyN9yydoEZ295dUR0-lyzJYr9KtIuBjV9TSbN9u-p6MhIoz4twcU82OLknjYX7H0WYeB5qZ7TEwUST439RYAYZHEmG2Re5yE-rxBcPYm_naA-3U81RYMsVEAT1FZphkp6U9qLbQznZkji5OkIKKEhJQi34U4K7mwsrn3DPhK73Bl2gRflypJk2_Tq41gFx4rL7zwQmPakouh05HoxAJ_4Fo0zYT3fVs5-__yNiFNw0zAG6JOExd3uZWfLCL-Vv5-9xBZr3jKXIlct8Wlx1v9EVV99zsOrsYiYJF1E204nZFrXcjh9Hvwd8WB5oZpewrCU8kdHsH1MMligBTRcIXY8pkCHTKDWCMNlPYQj1tEY35_8oPRNm6SJC3KBvFm-NPBcmaCMGd13fmKaPOLgYuVukFL5_eBFfqmb9lo2Mr3xBROpYOheItd1NWJR0-FPMuQ5tIyyP4Xwgayi1GZ1pl51t0PNdzrO13iTlKxlDOwarj6ncVcfSmV2SnjEbh81WJoc7hvZoRuHWHqImDeoKtw2UQLghs7s_nNwdxLjmTNWS1BPL2spOKEWYB9aGo-LSejGD4dNBvIP1ect-Ry5lLBywWvkJe3-CvAfNaQ_Hmc2xl1kKVrv8nSqxyR2d4gYLcikqt5-m__A-N-VsPYwSxvd09UH3_6vLU88QNRSwRvle49ST45FNi8Mg0oiUybXSBJ_swunTQdHdlzEpJdsG4F4uDQrdJGUt29My-FRyug-ukti0ltcgJ_uhqGyCPDdeY8CEVGgvVfevbN84t3BPfF6IKMS7XYOsZLwsrCLfkfLedovvYuYGVpYps0SDnzznHiFp0cClRbKXmI8-nnrMjikuXvYY0_SephG4RR5jhZCBTtt40j0GctNBVcV_UWousFRNWeqen5GBRfAA0stGFlIkQWUxDmyhRRycynjfnjU7Ucg2cPQyRDZE_aZO-Ma0l_WjDWoO1cesP_m6FZHVl1ZARN7jybMiaDrnI0-xKiQEhEr1ofo2CwyFdqILZeOhMsnUP4Mumj4CB3HvOHwkon8rWmm353YgDZ9X8dmNR8fj8dOTjKG9OltDzxGdJAXglHVtDySz-K_t3hvmOLf5ac4G-6qVjIaqz9FdHlNLHE53TxzF7yy0oQ01ERgXq_0O9lpnZ14j0nMAyc-be-2jJ2UMKNFL9LNsOdeszk34Np_De3DPPjuLxFojskCcaD1ZEObcsK582IfFax8fsqy3V99ibLzPB7949CTvugpb4wkMVQLoD69akfwXdYQluJvuhJoUFctjsC6xofoHgUsbTQy48BlIGG5p-kQyrEfBKatIaifj4GlFEvA-DlsYAUM99Yt7DpA2wvu_ES5gUym0QRLF7Wz073y_NLblJQwUZ-kQRxsvZ9_B4CmY6ERZsoySP_i66Dugr1BWW0MUs5GqwXUJU_qkWHi88pSbttphbbyEXR-C3qT1dLoz1FBc9r_Rk21xFLVtphV45QcHOfVjn0muvSKkwyUt-8lR8IF4W7N6Vs0jU4GgBQEQbF1-BUTXKNcC74hJ9cOKYkHCt1GOaJHmWmWUeRhf4oi_RKChrfclUtCiHkLULA6cZB4T9fcCCZdN5XlciZDQ2Yu0nUmcTFt8JzpJDhxGZjmWdorJDgQvDD6p-cB7QkAnHgB9-jLZdYQhnj7eBEEWz7Xr5ieS21eoUKVsXX8_MogcxGvSx3CPAwVeLQws04nAI361_XPno63ModPBUS00ozZ6w7fOKPcleFRy9cgme0O5XEoMZPK6W0-_3icQ5bGIa6xNAU6Xeb0qsXdDwpt2WEgRjRZGUW1vChuiDkMziV6M_TXW5jfPGFa_6SjokWb38I9cBCs2ZQcjXbQTZNUW1lxKUwfSR6-3w1zWY0PKk4xwbGJDg5iac0d4j09fW" charset="UTF-8"></script>
+<style>
+    table {
+      font-family: arial, sans-serif;
+      border-collapse: collapse;
+      width: 100%;
+    }
+    
+    td, th {
+      border: 1px solid #000000;
+      text-align: left;
+      padding: 8px;
+    }
+    
+    tr:nth-child(even) {
+      background-color: #dbdada;
+    }
+    </style>
+
+    <style type="text/css">
+        #imagem{
+            float:right;
+        }  
+        #dale{
+            float:right;
+        }   
+        #uiui{
+            float:right;
+        }   
+        #sete{
+            float:right;
+        }   
+        #pepa{
+            float:right;
+        }   
+        #ahri{
+            float:right;
+        }   
+        #rammus{
+            float:right;
+        }   
+        #cego{
+            float:right;
+        }   
+    </style>
+</head>
+<body background="fum.jpg">
+
+<center><h1><font size="7" face="arial">Curiosidades sobre o cubo magico</font></h1></center>
+<center><p><font size="5" face="arial">Voce pode conferir os recordes, colocaçoes em campeonatos, futuros campeonatos, etc., no site oficial da World Cube Association (WCA).</font></p></center>
+<center><p>>><button><a href="https://www.worldcubeassociation.org/"><font size="4" face="arial">Site da WCA</font></a></button><<</p></center>
+  <h2><font size="6" face="arial">Como surgiu o cubo magico:</font></h2>
+  <p><font size="5" face="arial">Ele surgiu na Hungria em 1974 por um professor de arquitetura chamado Erno Rubik, o cubo magico foi inventado com a
+     intencao de trazer novos meios de informacao para seus alunos, e o primeiro modelo do cubo foi usado para
+     explicar aos seus estudantes sobre a relacao do espaco, sem imaginar que pouco tempo depois se tornaria o brinquedo
+     mais vendido do mundo. E o Erno (criador do cubo magico) levou pouco mais de um mes para resolve-lo apos te-lo criado.</font></p>
+     <br />
+<img src="cg.png" id="cego" title="cubo magico para cegos" width="22%"/>
+<h3><font size="6" face="arial">Curiosidades:</font></h3>
+
+<ul>
+  <li><font size="5" face="arial">Existe cubos magicos para cegos.</font></li>
+  <li><font size="5" face="arial">Sao realizados campeonatos em todo o mundo para todas as idades.</font></li>
+  <li><font size="5" face="arial">O primeiro recorde mundial do cubo magico 3x3x3 foi de 22.95 segundos em 1982.</font></li>
+</ul>
+<br />
+<p align="right"><i>Exemplo de cubos para cegos.</i></p>
+<br />
+<center><p><font size="6" face="arial"><b>Atuais recordes mundiais:</b></font></p></center>
+<br />
+<p align="left"><i>Dados atualizados em 29/02/2020</i></p>
+<table style="width:100%">
+    <tr>
+      <th>Puzzle</th>
+      <th>Single</th> 
+      <th>Average</th>
+    </tr>
+    <tr>
+      <td>3x3x3</td>
+      <td>3.47</td>
+      <td>5.53</td>
+    </tr>
+    <tr>
+      <td>2x2x2</td>
+      <td>0.49</td>
+      <td>1.21</td>
+    </tr>
+    <tr>
+      <td>4x4x4</td>
+      <td>17.42</td>
+      <td>21.11</td>
+      <tr>
+        <td>5x5x5</td>
+        <td>34.92</td>
+        <td>39.65</td>
+      </tr>
+      <tr>
+        <td>6x6x6</td>
+        <td>1:09.51</td>
+        <td>1:15.90</td>
+      </tr>
+      <tr>
+        <td>7x7x7</td>
+        <td>1:40.89</td>
+        <td>1:46.57</td>
+      </tr>
+      <tr>
+        <td>3x3x3 Vendado</td>
+        <td>15.50</td>
+        <td>18.18</td>
+      </tr>
+      <tr>
+        <td>3x3x3 em Menos Movimentos</td>
+        <td>16  Movimentos</td>
+        <td>21  Movimentos</td>
+      </tr>
+      <tr>
+        <td>3x3x3 com Uma Mao</td>
+        <td>6.82</td>
+        <td>9.42</td>
+      </tr>
+      <tr>
+        <td>Clock</td>
+        <td>3.29</td>
+        <td>4.38</td>
+      </tr>
+      <tr>
+        <td>Megaminx</td>
+        <td>27.22</td>
+        <td>30.39</td>
+      </tr>
+      <tr>
+        <td>Pyraminx</td>
+        <td>0.91</td>
+        <td>1.86</td>
+      </tr>
+      <tr>
+        <td>Skewb</td>
+        <td>0.93</td>
+        <td>2.03</td>
+      </tr>
+      <tr>
+        <td>Square-1</td>
+        <td>4.95</td>
+        <td>6.54</td>
+      </tr>
+      <tr>
+        <td>4x4x4 Vendado</td>
+        <td>1:02.51</td>
+        <td>1:08.76</td>
+      </tr>
+      <tr>
+        <td>5x5x5 Vendado</td>
+        <td>2:21.62</td>
+        <td>2:27.63</td>
+      </tr>
+      <tr>
+        <td>3x3x3 Multiplos Cubos Vendado</td>
+        <td>59:46</td>
+        <td>59/60  Cubos</td>
+      </tr>
+    </tr>
+  </table>
+  <img src="hhh.png" id="imagem" title="square-1" width="10%"/>
+  <img src="fff.png" id="dale" title="megaminx" width="10%"/>
+  <img src="ccc.png" id="uiui" title="clock" width="10%"/>
+  <img src="sss.png" id="sete" title="7x7x7" width="10%"/>
+  <img src="ppp.png" id="pepa" title="pyraminx" width="8%"/>
+  <img src="ddd.png" id="ahri" title="2x2x2" width="10%"/>
+  <img src="kkk.png" id="rammus" title="skewb" width="10%"/>
+  <p><i>*Sumario:</i></p>
+  <p><i>Puzzle = enigma / quebra cabeca.</i></p>
+  <p><i>Single = tempo unico.</i></p>
+  <p><i>Average = tempo de media.</i></p>
+  <p align="right"><i>Exemplo de cubos listados a cima</i></p>
+  <p align="right"><i>(Passe o mouse por cima das imagens para visualizar os nomes)</i></p>
+  <br />
+<center><p><font size="5" face="arial">Se desejar saber um pouco sobre a minha historia no cubo, passe para a pagina 1.</font></p></center>
+<center><p>>><button><a href="file:///C:/Users/Dell/Desktop/index/index.html"><font size="4" face="arial">Pagina 1</font></a></button><<</p></center>
+</body>
+</html>
